@@ -24,8 +24,8 @@ Thumbs.db
 # Build outputs
 dist/
 build/
-*.epub
-*.pdf
+# *.epub  # 允许提交生成的EPUB电子书
+# *.pdf   # 允许提交生成的PDF电子书
 
 # Node modules (if any)
 node_modules/
